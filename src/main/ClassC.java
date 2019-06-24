@@ -17,4 +17,6 @@ public class ClassC {
             System.out.println(tst);
         });
     }
+
+    //test3
 }
